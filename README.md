@@ -1,3 +1,10 @@
+Resources
+
+Security
+https://portswigger.net/web-security
+
+
+
 From an expert https://www.devnetexperttraining.com/masterclass
 
 Useful documentation for DevNet Expert topics
