@@ -2,7 +2,7 @@ Resources
 
 Security
 https://portswigger.net/web-security
-
+https://www.malware-traffic-analysis.net/
 
 
 From an expert https://www.devnetexperttraining.com/masterclass
